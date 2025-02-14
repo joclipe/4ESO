@@ -141,7 +141,5 @@ You can combine multiple style attributes in a single `style` attribute. Here’
 
 ## Conclusion
 
-Understanding HTML attributes and their values is crucial for effective web development. They enhance the functionality and accessibility of web pages, allowing for better user interaction and experience. If you have any specific questions or need further examples, feel free to ask!
-
----
+Understanding HTML attributes and their values is crucial for effective web development. They enhance the functionality and accessibility of web pages, allowing for better user interaction and experience.
 
