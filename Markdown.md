@@ -80,7 +80,7 @@ Exemple:
 ```
 
 Exemple:  
-![Exemple d’imatge](https://via.placeholder.com/300x150.png?text=Hola+Markdown)
+![Exemple d’imatge](https://download.logo.wine/logo/Markdown/Markdown-Logo.wine.png)
 
 ### Taules
 
