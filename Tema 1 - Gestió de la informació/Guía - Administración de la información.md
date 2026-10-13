@@ -80,7 +80,7 @@ La seguridad no depende de una sola medida. Una contraseña robusta ayuda, pero 
 
 ### Actividad: The Password Game
 
-En [The Password Game]([https://neal.fun/password-game/](https://kuakua.app/games/password-game)) hay que crear una contraseña ficticia que cumpla una serie de reglas, cada vez más particulares. La actividad permite observar cómo cambian las condiciones y cómo una modificación puede hacer que una contraseña deje de cumplir una regla anterior.
+En [The Password Game](https://kuakua.app/games/password-game) hay que crear una contraseña ficticia que cumpla una serie de reglas, cada vez más particulares. La actividad permite observar cómo cambian las condiciones y cómo una modificación puede hacer que una contraseña deje de cumplir una regla anterior.
 
 1. Abre el juego y lee las opciones de privacidad o consentimiento antes de continuar. Si la actividad se hace en clase, sigue las indicaciones del docente.
 2. Inventa una secuencia que no uses en ninguna cuenta y que no contenga tu nombre, fecha de nacimiento, usuario ni otros datos personales.
