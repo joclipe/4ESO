@@ -25,10 +25,6 @@ Tema2.md
 Tema10.md
 ```
 
-### A0. Comodines (Explorador de archivos)
-
-Crea en una carpeta de prueba archivos vacíos con los nombres de la lista anterior y, en el buscador del Explorador, escribe `*.pdf`, `foto_*` y `*_v?.pdf`. Anota qué archivos aparecen en cada caso.
-
 ### A1. Nivel básico
 
 Escribe un patrón que encuentre:
