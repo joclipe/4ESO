@@ -23,11 +23,7 @@ presentacio_v3.pptx
 Tema1.md
 Tema2.md
 Tema10.md
-```
 
-### A0. Comodins (Explorador d'arxius)
-
-Crea en una carpeta de proves arxius buits amb els noms de la llista anterior i, al buscador de l'Explorador, escriu `*.pdf`, `foto_*` i `*_v?.pdf`. Anota quins arxius apareixen en cada cas.
 
 ### A1. Nivell bàsic
 
